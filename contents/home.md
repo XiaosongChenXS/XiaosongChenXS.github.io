@@ -9,10 +9,9 @@ I am a Ph.D. candidate in Computer Science at the University of Macau, where I a
 Email: chen.xiaosong@connect.um.edu.mo
 
 #### Research Interests
-Online Algorithm Design, Federated Learning, LLM Training.
 <ul>
-  <li><strong>Online Algorithm Design:</strong> Bandits, Scheduling</li>
-  <li><strong>Federated Learning:</strong>Client Selection, Bandits</li>
-  <li><strong>LLM Training:</strong>Efficiency</li>
-  <li><strong>Others:</strong> Statisitcal Inference</li>
+  <li><strong>Online Algorithm Design:</strong> Multi-armed Bandits, Scheduling, Energy Efficiency Optimization</li>
+  <li><strong>Federated Learning:</strong> Client Selection, Multi-armed Bandits</li>
+  <li><strong>LLM Training:</strong> Training Efficiency Optimization</li>
+  <li><strong>Other Topics:</strong> Statistical Inference</li>
 </ul>
