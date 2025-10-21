@@ -13,5 +13,5 @@ Email: chen.xiaosong@connect.um.edu.mo
   <li><strong>Online Algorithm Design:</strong> Multi-armed Bandits, Scheduling, Energy Efficiency Optimization</li>
   <li><strong>Federated Learning:</strong> Client Selection, Multi-armed Bandits</li>
   <li><strong>LLM Training:</strong> Training Efficiency Optimization</li>
-  <li><strong>Other Topics:</strong> Statistical Inference</li>
+  <li><strong>Others:</strong> Statistical Inference</li>
 </ul>
