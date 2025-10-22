@@ -1,7 +1,7 @@
 
 
 
-I am a Ph.D. candidate in Computer Science at the University of Macau, where I am fortunate to be advised by [Prof. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/) at the [Cloud and Distributed Systems Lab](https://cds-macau.github.io). While some create on a canvas, I create through the elegance of mathematics and the power of code.
+I am a Ph.D. candidate in Computer Science at the University of Macau, where I am fortunate to be advised by [Prof. Huanle Xu](https://www.fst.um.edu.mo/people/huanlexu/) at the [Cloud and Distributed Systems Lab](https://cds-macau.github.io). Before that, I received my Bachelor's and Master's degrees in Mathematics from Lanzhou University. While some create on a canvas, I create through the elegance of mathematics and the power of code.
 
 
 #### Contact
