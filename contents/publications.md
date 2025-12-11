@@ -6,5 +6,9 @@
 
 - Yongmei Du, Zhouping Li, <strong>Xiaosong Chen</strong>. Efficient empirical Bayes estimates for risk parameters of Pareto distributions. Communications in Statistics-Theory and Methods. 2022. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/03610926.2020.1766501) 
 
+[Efficient empirical Bayes estimates for risk parameters of Pareto distributions.](https://www.tandfonline.com/doi/abs/10.1080/03610926.2020.1766501) 
+    * Accepted by Communications in Statistics-Theory and Methods.2022.
+    * Authors: Yongmei Du, Zhouping Li, <strong>Xiaosong Chen</strong>.
+
 
 
