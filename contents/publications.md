@@ -20,7 +20,7 @@
   - Accepted by ACM Symposium on Parallelism in Algorithms and Architectures, <strong>SPAA@2024. [CCF B & CORE A]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Huanle Xu, ChengZhong Xu
 
-<!-- - Yongmei Du, Zhouping Li, <strong>Xiaosong Chen</strong>. Efficient empirical Bayes estimates for risk parameters of Pareto distributions. Communications in Statistics-Theory and Methods. 2022. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/03610926.2020.1766501)  -->
+<!-- - Yongmei Du, Zhouping Li, <strong>Xiaosong Chen</strong>. Efficient empirical Bayes estimates for risk parameters of Pareto distributions. Communications in Statistics-Theory and Methods. 2022. [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/03610926.2020.1766501)  --> 
 
 - Efficient empirical Bayes estimates for risk parameters of Pareto distributions.[[Paper]](https://www.tandfonline.com/doi/abs/10.1080/03610926.2020.1766501)  
   - Accepted by Communications in Statistics-Theory and Methods, <strong>Comm. in Stats. - Theory & Methods@2022. [JCR Q3]</strong>
