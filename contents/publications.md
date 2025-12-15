@@ -1,6 +1,6 @@
 - FedSUV: Validity and Utility-guided Client Selection for Federated Learning.  
   - Accepted by IEEE International Conference on Computer Communications, <strong>INFOCOM@2026. [CCF A & CORE A*]</strong>  
-  - Authors: <strong>Xiaosong Chen</strong>, Huanle Xu, Wenyan Chen, Yuanhang Chen
+  - Authors: <strong>Xiaosong Chen</strong>, Wenyan Chen, Yuanhang Chen, Huanle Xu
 
 <!-- - Yuanhang Chen, <strong>Xiaosong Chen</strong>, Wenyan Chen, Huanle Xu. FedDance: Efficient Participant Selection for Federated Learning in Highly Dynamic Environments. ACM Symposium on Cloud Computing (SoCC). 2025. -->
 
