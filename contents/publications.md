@@ -4,7 +4,7 @@
 
 <!-- - Yuanhang Chen, <strong>Xiaosong Chen</strong>, Wenyan Chen, Huanle Xu. FedDance: Efficient Participant Selection for Federated Learning in Highly Dynamic Environments. ACM Symposium on Cloud Computing (SoCC). 2025. -->
 
-- FedDance: Efficient Participant Selection for Federated Learning in Highly Dynamic Environments.   
+- FedDance: Efficient Participant Selection for Federated Learning in Highly Dynamic Environments.[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3772052.3772252)  
   - Accepted by ACM Symposium on Cloud Computing, <strong>SoCC@2025. [CCF B]</strong>  
   - Authors: Yuanhang Chen, <strong>Xiaosong Chen</strong>, Wenyan Chen, Huanle Xu
 
