@@ -2,7 +2,6 @@
   - Accepted by IEEE International Conference on Computer Communications, <strong>ECML PKDD@2026. [CCF B & CORE A]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Zizhao Mo, Huanle Xu, Yang Liu, Wing Cheong Lau
 
-
 - FedSUV: Validity and Utility-guided Client Selection for Federated Learning.  
   - Accepted by IEEE International Conference on Computer Communications, <strong>INFOCOM@2026. [CCF A & CORE A*]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Wenyan Chen, Yuanhang Chen, Huanle Xu
