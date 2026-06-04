@@ -237,13 +237,25 @@
     <!-- Miscellaneous -->
 
     <!-- Visitor Map -->
-    <div class="text-center mt-4 mb-4">
+     <div class="text-center mt-4 mb-4">
+        <a href="https://info.flagcounter.com/8X1J">
+            <img id="flag-counter-map"
+                src="https://s05.flagcounter.com/map/8X1J/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+                alt="Flag Counter"
+                border="0">
+        </a>
+    </div>
+    <script>
+        const flagCounterImg = document.getElementById("flag-counter-map");
+        flagCounterImg.src = flagCounterImg.src + "?t=" + new Date().getTime();
+    </script>
+    <!-- <div class="text-center mt-4 mb-4">
     <a href="https://info.flagcounter.com/8X1J">
         <img src="https://s05.flagcounter.com/map/8X1J/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" 
              alt="Flag Counter" 
              border="0">
     </a>
-    </div>
+    </div> -->
     <!-- <div class="text-center mt-4 mb-4" style="width: 300px; height: 300px; margin: auto; overflow: hidden;">
         <div style="transform: scale(1); transform-origin: top center;">
             <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1MeRsNdWDazzaZL2tzcfjAg_d598ZdmVDqB1mFUHvP8"></script>
