@@ -1,8 +1,8 @@
-- AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.  
+- AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.
   - Accepted by European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, <strong>ECML PKDD@2026. [CCF B & CORE A]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Zizhao Mo, Huanle Xu, Yang Liu, Wing Cheong Lau
 
-- FedSUV: Validity and Utility-guided Client Selection for Federated Learning.  
+- FedSUV: Validity and Utility-guided Client Selection for Federated Learning.
   - Accepted by IEEE International Conference on Computer Communications, <strong>INFOCOM@2026. [CCF A & CORE A*]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Wenyan Chen, Yuanhang Chen, Huanle Xu
 
