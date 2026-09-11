@@ -1,6 +1,6 @@
-- Poseidon: DAG-Guided Parallelism Search for LLM Pre-Training on Heterogeneous Clusters.[[Paper]](https://arxiv.org/abs/2609.06086)  
+<!-- - Poseidon: DAG-Guided Parallelism Search for LLM Pre-Training on Heterogeneous Clusters.[[Paper]](https://arxiv.org/abs/2609.06086)  
   - arXiv preprint arXiv:2609.06086 
-  - Authors: <strong>Xiaosong Chen</strong>, Shaoheng Nie, Zhongmin Zhao, Zizhao Mo, Jiapeng Chen, Huanle Xu, Zeren Li, Weiwei Sun, ChengZhong Xu
+  - Authors: <strong>Xiaosong Chen</strong>, Shaoheng Nie, Zhongmin Zhao, Zizhao Mo, Jiapeng Chen, Huanle Xu, Zeren Li, Weiwei Sun, ChengZhong Xu -->
 
 - AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.  
   - Accepted by European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, <strong>ECML PKDD@2026. [CCF B & CORE A]</strong>  
