@@ -1,12 +1,12 @@
-- AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.[[Paper]](https://arxiv.org/abs/2609.06086)  
-  - arXiv. 
+- Poseidon: DAG-Guided Parallelism Search for LLM Pre-Training on Heterogeneous Clusters.[[Paper]](https://arxiv.org/abs/2609.06086)
+  - arXiv preprint arXiv:2609.06086 
   - Authors: <strong>Xiaosong Chen</strong>, Shaoheng Nie, Zhongmin Zhao, Zizhao Mo, Jiapeng Chen, Huanle Xu, Zeren Li, Weiwei Sun, ChengZhong Xu  
 
-- AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.  
+- AI-Lite: Adaptive Data Center Cooling Optimization Based on Machine Learning.
   - Accepted by European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, <strong>ECML PKDD@2026. [CCF B & CORE A]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Zizhao Mo, Huanle Xu, Yang Liu, Wing Cheong Lau  
 
-- FedSUV: Validity and Utility-guided Client Selection for Federated Learning.[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11571211&casa_token=jg7Z37LyB7EAAAAA:J8TcrI9XFDTFnXfJtrWEtJLwzxsZZAw201MKHTc0yMsxc8AtwYMYgAVGU7VgajATJOgF0gHWY3Y&tag=1)  
+- FedSUV: Validity and Utility-guided Client Selection for Federated Learning.[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11571211&casa_token=jg7Z37LyB7EAAAAA:J8TcrI9XFDTFnXfJtrWEtJLwzxsZZAw201MKHTc0yMsxc8AtwYMYgAVGU7VgajATJOgF0gHWY3Y&tag=1)
   - Accepted by IEEE International Conference on Computer Communications, <strong>INFOCOM@2026. [CCF A & CORE A*]</strong>  
   - Authors: <strong>Xiaosong Chen</strong>, Wenyan Chen, Yuanhang Chen, Huanle Xu
 
