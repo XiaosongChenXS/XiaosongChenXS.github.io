@@ -1,4 +1,4 @@
-- PhD in Computer Science, University of Macau, 2022-Present.
+- PhD in Computer Science, University of Macau, 2022-2026.
 
 - MSc in Probability Theory and Mathematical Statistics, Lanzhou University, 2016-2019.
 
